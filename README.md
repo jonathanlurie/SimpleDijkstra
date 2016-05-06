@@ -4,9 +4,9 @@ This simple implementation of [Dijkstra's shortest path algorithm](https://en.wi
 ## Motivations
 The first motivation was to check how tricky it was to code. Otherwise, most of the time, I don't really need such algorithm. A lot of libraries and [implementations](https://www.quora.com/What-is-the-most-simple-efficient-C++-code-for-Dijkstras-shortest-path-algorithm) just give the shortest *weight* (aka. distance) without giving the list of vertice that compose this shortest path. In my opinion, knowing that the shortest road from Paris to Moscow is 2835km won't help me so much if I don't know what is the next city I am supposed to follow.
 
-Anyway, I didn't want to be influenced by other pieces of code, so I decided to use only this Youtube video to create **SimpleDijkstra**:  
+Anyway, I didn't want to be influenced by other pieces of code, so I decided to use only this [Youtube video](https://www.youtube.com/embed/5GT5hYzjNoo) to create **SimpleDijkstra**. 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5GT5hYzjNoo" frameborder="0" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GT5hYzjNoo" frameborder="0" allowfullscreen></iframe>
 
 ## How to install it
 ### Browser
