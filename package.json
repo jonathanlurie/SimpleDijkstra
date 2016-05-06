@@ -1,0 +1,45 @@
+{
+  "name": "SimpleDijkstra",
+  "version": "0.1.0",
+  "description": "Simple implementation of Dijkstra's shortest path algorithm for Node and browser",
+  "homepage": "https://github.com/jonathanlurie/SimpleDijkstra",
+  "license": "MIT",
+  "author": {
+    "name": "Jonathan Lurie",
+    "email": "lurie.jo@gmail.com",
+    "url": "http://me.jonathanlurie.fr"
+  },
+  "contributors": [],
+  "keywords": ["dijkstra","shortest path","graph","algorithm"],
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanlurie/SimpleDijkstra"
+  },
+  "engines": {
+
+  },
+  "dependencies": {
+
+  },
+  "peerDependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "preferGlobal": false,
+  "main": "index.js",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "files": [
+
+  ],
+  "bin": {
+
+  }
+}
